@@ -6,4 +6,3 @@ PROGRAM HELLO  ! Declares the start of a Fortran program.
 	! (*) -> standard formatting
 	! (Hello World) -> a string literal that will be printed
 END PROGRAM HELLO ! (END PROGRAM <NAME>) -> Marks the end of the program.
-
