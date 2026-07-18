@@ -1,9 +1,12 @@
-
 ! Diferenca entre WRITE e PRINT em fortran
+! Difference between WRITE and PRINT in Fortran
+! Unterschied zwischen WRITE und PRINT in Fortran
 
 PROGRAM EXEMPLO
 
 	! Ambos sao usados para saida de dados, mas tem diferencas
+	! Both are used for data output, but there are differences.
+	! Beide werden für die Datenausgabe verwendet, aber es gibt Unterschiede.
 	IMPLICIT NONE
 	
 	INTEGER :: x = 40
