@@ -1,2 +1,2 @@
  Gravando em arquivo
- Valor de x (arquivo):          40
+ Valor de x (arquivo):          30
