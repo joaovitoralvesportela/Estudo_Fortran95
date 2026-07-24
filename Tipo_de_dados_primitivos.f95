@@ -40,7 +40,7 @@ END PROGRAM exemplo_integer
  PROGRAM exemplo_2
    INTEGER :: a,b,soma
  	a = 10
-   b = 20
+    b = 20
  	soma = a + b
 	PRINT *, "Soma = " , soma
  END PROGRAM exemplo_2
